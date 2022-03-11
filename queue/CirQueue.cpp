@@ -7,6 +7,9 @@
 
 
 #include "CirQueue.h"
+#include "iostream"
+
+using namespace std;
 
 /*
  * @Description 构造函数
@@ -106,7 +109,12 @@ int CirQueue::GetSize() {
  * @Description 输出队内元素
  *
  */
-void CirQueue::PrintMember(CirQueue seqQueue) {
+void CirQueue::PrintMember() {
+
+    while (rear!=front){
+        cout<<Q[front];
+        front++;
+    }
 
 }
 

@@ -2,18 +2,28 @@
 #include "string"
 #include "list/List.h"
 
+#include "queue/CirQueue.h"
+#include "string/Kmp.h"
+
+#include "tree/BinaryTree.h"
+
 
 using namespace std;
 
 
 int main() {
 
+    BinaryTree binaryTree;
 
-    List list;
-    for (int i = 0; i < 5; ++i) {
-        list.Insert(i);
-    }
-    list.Print();
+
+
+    string str;
+
+    binaryTree.CreateBiTree(binaryTree.getRoot());
+
+    binaryTree.PostOrder(binaryTree.getRoot());
+
+
     return 0;
 
 

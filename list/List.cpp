@@ -12,6 +12,7 @@ using namespace std;
 
 /*
  * @Description 构造函数
+ * 建立头指针
  */
 List::List() {
 
@@ -25,6 +26,7 @@ List::List() {
 
 /*
  * @Description 插入函数
+ *
  * 行参x为引用类型，与传递的实参共享存储空间
  */
 void List::Insert(int &x) {

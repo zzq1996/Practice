@@ -90,6 +90,18 @@ build CMakeFiles/Practice.dir/queue/CirQueue.cpp.o: CXX_COMPILER__Practice_Debug
   OBJECT_DIR = CMakeFiles/Practice.dir
   OBJECT_FILE_DIR = CMakeFiles/Practice.dir/queue
 
+build CMakeFiles/Practice.dir/string/Kmp.cpp.o: CXX_COMPILER__Practice_Debug /Users/zhang/CLionProjects/Practice/string/Kmp.cpp || cmake_object_order_depends_target_Practice
+  DEP_FILE = CMakeFiles/Practice.dir/string/Kmp.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Practice.dir
+  OBJECT_FILE_DIR = CMakeFiles/Practice.dir/string
+
+build CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o: CXX_COMPILER__Practice_Debug /Users/zhang/CLionProjects/Practice/tree/BinaryTree.cpp || cmake_object_order_depends_target_Practice
+  DEP_FILE = CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Practice.dir
+  OBJECT_FILE_DIR = CMakeFiles/Practice.dir/tree
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Practice
@@ -98,7 +110,7 @@ build CMakeFiles/Practice.dir/queue/CirQueue.cpp.o: CXX_COMPILER__Practice_Debug
 #############################################
 # Link the executable Practice
 
-build Practice: CXX_EXECUTABLE_LINKER__Practice_Debug CMakeFiles/Practice.dir/main.cpp.o CMakeFiles/Practice.dir/list/List.cpp.o CMakeFiles/Practice.dir/queue/CirQueue.cpp.o
+build Practice: CXX_EXECUTABLE_LINKER__Practice_Debug CMakeFiles/Practice.dir/main.cpp.o CMakeFiles/Practice.dir/list/List.cpp.o CMakeFiles/Practice.dir/queue/CirQueue.cpp.o CMakeFiles/Practice.dir/string/Kmp.cpp.o CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
   OBJECT_DIR = CMakeFiles/Practice.dir
   POST_BUILD = :

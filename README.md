@@ -7,12 +7,21 @@
 
 ---
 ## 串
-- kmp
+- kmp（没整明白）
 
 ---
 ## 树
-- 二叉树
+- BinaryTree
+  - 创建
+    - BiTree(注意在类中创建的方式)
+    - 返回根结点
+    
+- ThreadTree
+  - 创建
+  - 
+
 - BST
+
 - AVL
 - BlackAndRed Tree
 

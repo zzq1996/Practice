@@ -36,13 +36,7 @@ public:
     bool EnQueue(int x);
     bool DeQueue(int &x);
     int GetSize();
-    void PrintMember(CirQueue seqQueue);
-
-
-
-
-
-
+    void PrintMember();
 
 };
 
