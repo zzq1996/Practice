@@ -13,16 +13,6 @@ using namespace std;
 
 int main() {
 
-    BinaryTree binaryTree;
-
-
-
-    string str;
-
-    binaryTree.CreateBiTree(binaryTree.getRoot());
-
-    binaryTree.PostOrder(binaryTree.getRoot());
-
 
     return 0;
 
