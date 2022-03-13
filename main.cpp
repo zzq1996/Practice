@@ -1,11 +1,6 @@
 #include <iostream>
-#include "string"
-#include "list/List.h"
 
-#include "queue/CirQueue.h"
-#include "string/Kmp.h"
-
-#include "tree/BinaryTree.h"
+#include "tree/BinarySearchTree.h"
 
 
 using namespace std;
@@ -13,6 +8,9 @@ using namespace std;
 
 int main() {
 
+    BinarySearchTree binarySearchTree;
+
+    cout<<"hi"<<endl;
 
     return 0;
 

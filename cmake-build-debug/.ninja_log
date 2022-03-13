@@ -1,8 +1,19 @@
 # ninja log v5
-638	691	1646968493788323155	Practice	dbfb9db3828a5c07
-2	614	1646968493710894382	CMakeFiles/Practice.dir/main.cpp.o	68850ad840516f77
-21	159	1646988737574639458	build.ninja	503772b1f5d5646f
-6	728	1646913480412656459	CMakeFiles/Practice.dir/list/List.cpp.o	326630fda84d5905
-5	916	1646901578092034865	CMakeFiles/Practice.dir/queue/CirQueue.cpp.o	4d85197d2284c273
-3	781	1646908592914702092	CMakeFiles/Practice.dir/string/Kmp.cpp.o	e1f018a8af197198
-3	638	1646968493735544112	CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o	69eab8fd9cd5e4b
+665	722	1647163937380706477	Practice	96d37eb3df33db92
+2	665	1647163937322541139	CMakeFiles/Practice.dir/main.cpp.o	68850ad840516f77
+21	159	1647164552248356205	build.ninja	503772b1f5d5646f
+2	860	1647163891710634544	CMakeFiles/Practice.dir/list/List.cpp.o	326630fda84d5905
+3	886	1647163891738985594	CMakeFiles/Practice.dir/tree/ThreadTree.cpp.o	d14ff4c720648ad9
+3	864	1647163891716388940	CMakeFiles/Practice.dir/string/Kmp.cpp.o	e1f018a8af197198
+3	886	1647163891738537286	CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o	69eab8fd9cd5e4b
+3	854	1647163891705025482	CMakeFiles/Practice.dir/queue/CirQueue.cpp.o	4d85197d2284c273
+0	8	0	clean	3c8e6cc385ee00ba
+4	1043	1647164557982475793	CMakeFiles/Practice.dir/queue/CirQueue.cpp.o	4d85197d2284c273
+4	1047	1647164557986768534	CMakeFiles/Practice.dir/string/Kmp.cpp.o	e1f018a8af197198
+3	1072	1647164558012699606	CMakeFiles/Practice.dir/list/List.cpp.o	326630fda84d5905
+4	1085	1647164558025496303	CMakeFiles/Practice.dir/tree/BinaryTree.cpp.o	69eab8fd9cd5e4b
+5	1085	1647164558026001156	CMakeFiles/Practice.dir/tree/ThreadTree.cpp.o	d14ff4c720648ad9
+3	1086	1647164558027127468	CMakeFiles/Practice.dir/main.cpp.o	68850ad840516f77
+1086	1145	1647164558088054884	Practice	96d37eb3df33db92
+3	872	1647164911189949889	CMakeFiles/Practice.dir/main.cpp.o	68850ad840516f77
+872	925	1647164911245093898	Practice	96d37eb3df33db92
